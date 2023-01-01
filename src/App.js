@@ -15,7 +15,7 @@ export default function App() {
             <a
               href="https://www.linkedin.com/in/nataliia-dorosh/"
               title="Profile Nataliia Dorosh"
-              target="_blank"
+              target="_blank" rel="noopener noreferrer"
             >
               Nataliia Dorosh
             </a>
